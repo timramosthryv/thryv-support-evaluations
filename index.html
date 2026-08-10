@@ -158,19 +158,19 @@
   <div id="view-overview">
     <div class="grid2">
       <div class="panel">
-        <h2>Score by Agent vs 90% Goal</h2>
+        <h2>Score by Agent vs 93% Goal</h2>
         <p class="pdesc">Each agent's average score. Green meets goal, amber is close, red is below.</p>
         <canvas id="agentChart" height="360"></canvas>
       </div>
       <div>
         <div class="panel" style="margin-bottom:16px;">
           <h2>Average by Coach</h2>
-          <p class="pdesc">Team performance by reporting leader vs the 90% goal.</p>
+          <p class="pdesc">Team performance by reporting leader vs the 93% goal.</p>
           <canvas id="coachChart" height="150"></canvas>
         </div>
         <div class="panel" style="margin-bottom:16px;">
           <h2>Average by Channel</h2>
-          <p class="pdesc">Chat vs Voice.</p>
+          <p class="pdesc">Chat vs Email.</p>
           <canvas id="channelChart" height="150"></canvas>
         </div>
         <div class="panel">
@@ -182,7 +182,7 @@
     </div>
     <div class="panel">
       <h2>Team Trend Over Time</h2>
-      <p class="pdesc">Daily average against the 90% goal line.</p>
+      <p class="pdesc">Daily average against the 93% goal line.</p>
       <canvas id="trendChart" height="200"></canvas>
     </div>
     <div class="panel">
@@ -205,7 +205,7 @@
 
   <div id="view-agent" style="display:none">
     <div class="panel">
-      <h2>Agent Scorecard vs 90% Goal</h2>
+      <h2>Agent Scorecard vs 93% Goal</h2>
       <p class="pdesc">Ranked lowest to highest. Gap to goal shown for anyone below 90%.</p>
       <div style="overflow-x:auto"><table id="agentTbl">
         <thead><tr>
@@ -224,7 +224,7 @@
   <div id="view-trend" style="display:none">
     <div class="panel">
       <h2>Team Trend Over Time</h2>
-      <p class="pdesc">Daily average against the 90% goal line.</p>
+      <p class="pdesc">Daily average against the 93% goal line.</p>
       <canvas id="trendChart2" height="230"></canvas>
     </div>
     <div class="panel">
@@ -373,8 +373,8 @@ function render(){
   const stats=[
     {l:'Evaluations',v:scores.length,d:'in current view',c:'#1d2733'},
     {l:'Agents',v:ag.length,d:'evaluated',c:'#3d7bd6'},
-    {l:'Meeting Goal',v:agentsMeeting,d:'agents at 90%+',c:'#1f9d55'},
-    {l:'Below Goal',v:ag.length-agentsMeeting,d:'agents under 90%',c:'#d64545'},
+    {l:'Meeting Goal',v:agentsMeeting,d:'agents at 93%+',c:'#1f9d55'},
+    {l:'Below Goal',v:ag.length-agentsMeeting,d:'agents under 93%',c:'#d64545'},
     {l:'Highest',v:(scores.length?Math.max(...scores):0)+'%',d:'single evaluation',c:'#1f9d55'},
     {l:'Lowest',v:(scores.length?Math.min(...scores):0)+'%',d:'single evaluation',c:'#d64545'},
   ];
