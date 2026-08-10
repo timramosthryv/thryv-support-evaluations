@@ -1,0 +1,3809 @@
+{
+ "meta": {
+  "group": "Thryv Support",
+  "goal": 93,
+  "source": "8x8 Quality Management - Search Evaluations",
+  "range": "2026 year-to-date",
+  "lastUpdated": "2026-08-10T16:00:00"
+ },
+ "records": [
+  {
+   "agent": "Mariselis Zorrilla German",
+   "score": 100,
+   "coach": "Jorge",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-06",
+   "interactionDate": "2025-12-16"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-06",
+   "interactionDate": "2025-12-22"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-06",
+   "interactionDate": "2026-01-05"
+  },
+  {
+   "agent": "Menfis Vasquez Espinal",
+   "score": 100,
+   "coach": "Duarte",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-06",
+   "interactionDate": "2025-12-15"
+  },
+  {
+   "agent": "Julio Contreras Galvan",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-06",
+   "interactionDate": "2025-12-07"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-06",
+   "interactionDate": "2026-01-01"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-06",
+   "interactionDate": "2026-01-05"
+  },
+  {
+   "agent": "Josue Paez Pujols",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-06",
+   "interactionDate": "2026-01-05"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-06",
+   "interactionDate": "2026-01-03"
+  },
+  {
+   "agent": "Luz Vasquez Burgos",
+   "score": 95,
+   "coach": "Lynch",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-06",
+   "interactionDate": "2026-01-01"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-09",
+   "interactionDate": "2026-01-05"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-09",
+   "interactionDate": "2026-01-05"
+  },
+  {
+   "agent": "Mariselis Zorrilla German",
+   "score": 100,
+   "coach": "Jorge",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-09",
+   "interactionDate": "2025-12-18"
+  },
+  {
+   "agent": "Luz Vasquez Burgos",
+   "score": 100,
+   "coach": "Lynch",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-09",
+   "interactionDate": "2026-01-07"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-09",
+   "interactionDate": "2026-01-08"
+  },
+  {
+   "agent": "Josue Paez Pujols",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-09",
+   "interactionDate": "2026-01-05"
+  },
+  {
+   "agent": "Menfis Vasquez Espinal",
+   "score": 100,
+   "coach": "Duarte",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-09",
+   "interactionDate": "2025-12-31"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-09",
+   "interactionDate": "2026-01-07"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-09",
+   "interactionDate": "2026-01-06"
+  },
+  {
+   "agent": "Menfis Vasquez Espinal",
+   "score": 95,
+   "coach": "Duarte",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-12",
+   "interactionDate": "2025-12-26"
+  },
+  {
+   "agent": "Julio Contreras Galvan",
+   "score": 90,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-12",
+   "interactionDate": "2026-01-05"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-12",
+   "interactionDate": "2026-01-02"
+  },
+  {
+   "agent": "Josue Paez Pujols",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-12",
+   "interactionDate": "2026-01-07"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-12",
+   "interactionDate": "2026-01-07"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-12",
+   "interactionDate": "2026-01-09"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-12",
+   "interactionDate": "2026-01-09"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-12",
+   "interactionDate": "2026-01-07"
+  },
+  {
+   "agent": "Menfis Vasquez Espinal",
+   "score": 100,
+   "coach": "Duarte",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-14",
+   "interactionDate": "2026-01-10"
+  },
+  {
+   "agent": "Julio Contreras Galvan",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-14",
+   "interactionDate": "2026-01-12"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-14",
+   "interactionDate": "2026-01-06"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-14",
+   "interactionDate": "2026-01-09"
+  },
+  {
+   "agent": "Jorge Davis Volquez",
+   "score": 100,
+   "coach": "Lynch",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-14",
+   "interactionDate": "2025-12-28"
+  },
+  {
+   "agent": "Josue Paez Pujols",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-14",
+   "interactionDate": "2026-01-04"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-14",
+   "interactionDate": "2025-12-22"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-14",
+   "interactionDate": "2026-01-01"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-14",
+   "interactionDate": "2026-01-13"
+  },
+  {
+   "agent": "Menfis Vasquez Espinal",
+   "score": 100,
+   "coach": "Duarte",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-16",
+   "interactionDate": "2026-01-14"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-16",
+   "interactionDate": "2026-01-13"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 85,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-16",
+   "interactionDate": "2026-01-15"
+  },
+  {
+   "agent": "Mariselis Zorrilla German",
+   "score": 100,
+   "coach": "Jorge",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-16",
+   "interactionDate": "2026-01-15"
+  },
+  {
+   "agent": "Mariselis Zorrilla German",
+   "score": 100,
+   "coach": "Jorge",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-16",
+   "interactionDate": "2026-01-15"
+  },
+  {
+   "agent": "Josue Paez Pujols",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-16",
+   "interactionDate": "2026-01-14"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-16",
+   "interactionDate": "2026-01-02"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-16",
+   "interactionDate": "2026-01-12"
+  },
+  {
+   "agent": "Josue Paez Pujols",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-19",
+   "interactionDate": "2026-01-15"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-19",
+   "interactionDate": "2026-01-16"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-19",
+   "interactionDate": "2026-01-17"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-19",
+   "interactionDate": "2026-01-15"
+  },
+  {
+   "agent": "Mariselis Zorrilla German",
+   "score": 100,
+   "coach": "Jorge",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-19",
+   "interactionDate": "2026-01-18"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-19",
+   "interactionDate": "2026-01-18"
+  },
+  {
+   "agent": "Jorge Davis Volquez",
+   "score": 100,
+   "coach": "Lynch",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-20",
+   "interactionDate": "2026-01-18"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-22",
+   "interactionDate": "2026-01-19"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-22",
+   "interactionDate": "2026-01-19"
+  },
+  {
+   "agent": "Josue Paez Pujols",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-01-22",
+   "interactionDate": "2026-01-19"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-22",
+   "interactionDate": "2026-01-21"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-22",
+   "interactionDate": "2026-01-22"
+  },
+  {
+   "agent": "Julio Contreras Galvan",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-01-27",
+   "interactionDate": "2026-01-25"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-27",
+   "interactionDate": "2026-01-23"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-27",
+   "interactionDate": "2026-01-23"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-27",
+   "interactionDate": "2026-01-08"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-01-27",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-28",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-28",
+   "interactionDate": "2026-01-21"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-28",
+   "interactionDate": "2026-01-26"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 65,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-28",
+   "interactionDate": "2026-01-26"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-28",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-28",
+   "interactionDate": "2026-01-17"
+  },
+  {
+   "agent": "Josue Paez Pujols",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-01-28",
+   "interactionDate": "2026-01-24"
+  },
+  {
+   "agent": "Josue Paez Pujols",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-01-29",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-01-29",
+   "interactionDate": "2026-01-18"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-30",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-01-30",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-30",
+   "interactionDate": "2026-01-29"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-30",
+   "interactionDate": "2026-01-28"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-01-30",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-01-30",
+   "interactionDate": "2026-01-20"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-01-30",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "Julio Contreras Galvan",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-02",
+   "interactionDate": "2026-01-19"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-02",
+   "interactionDate": "2026-01-22"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-02",
+   "interactionDate": "2026-01-28"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-02",
+   "interactionDate": "2026-01-26"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-02",
+   "interactionDate": "2026-01-29"
+  },
+  {
+   "agent": "Josue Paez Pujols",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-02-02",
+   "interactionDate": "2026-01-27"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-02-04",
+   "interactionDate": "2026-02-03"
+  },
+  {
+   "agent": "Jorge Davis Volquez",
+   "score": 100,
+   "coach": "Lynch",
+   "channel": "Chat",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-02-04",
+   "interactionDate": "2026-01-26"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-05",
+   "interactionDate": "2026-02-02"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-05",
+   "interactionDate": "2026-02-01"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-02-06",
+   "interactionDate": "2026-01-31"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-06",
+   "interactionDate": "2026-01-26"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-06",
+   "interactionDate": "2026-02-04"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-08",
+   "interactionDate": "2026-02-06"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-09",
+   "interactionDate": "2026-02-01"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-09",
+   "interactionDate": "2026-02-05"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-11",
+   "interactionDate": "2026-02-06"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-02-11",
+   "interactionDate": "2026-02-09"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-02-11",
+   "interactionDate": "2026-02-10"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-11",
+   "interactionDate": "2026-02-08"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-11",
+   "interactionDate": "2026-02-09"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-13",
+   "interactionDate": "2026-02-12"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-13",
+   "interactionDate": "2026-02-09"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-13",
+   "interactionDate": "2026-02-12"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-02-13",
+   "interactionDate": "2026-02-08"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-15",
+   "interactionDate": "2026-02-12"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-16",
+   "interactionDate": "2026-02-12"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-02-16",
+   "interactionDate": "2026-02-14"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-02-16",
+   "interactionDate": "2026-02-11"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-02-16",
+   "interactionDate": "2026-02-14"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 90,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-02-16",
+   "interactionDate": "2026-02-02"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-02-18",
+   "interactionDate": "2026-02-04"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-20",
+   "interactionDate": "2026-02-16"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-20",
+   "interactionDate": "2026-02-12"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-02-20",
+   "interactionDate": "2026-02-12"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-20",
+   "interactionDate": "2026-02-18"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-23",
+   "interactionDate": "2026-02-06"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-02-23",
+   "interactionDate": "2026-02-06"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-02-23",
+   "interactionDate": "2026-02-20"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-23",
+   "interactionDate": "2026-02-20"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 85,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-24",
+   "interactionDate": "2026-02-23"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 85,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-25",
+   "interactionDate": "2026-02-24"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-25",
+   "interactionDate": "2026-02-24"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-25",
+   "interactionDate": "2026-02-23"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-25",
+   "interactionDate": "2026-02-23"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-26",
+   "interactionDate": "2026-02-25"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-02-26",
+   "interactionDate": "2026-02-24"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-02-26",
+   "interactionDate": "2026-02-25"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-02",
+   "interactionDate": "2026-02-26"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-02",
+   "interactionDate": "2026-02-25"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-03-02",
+   "interactionDate": "2026-02-28"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-03-02",
+   "interactionDate": "2026-02-28"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-03-03",
+   "interactionDate": "2026-03-03"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-03-05",
+   "interactionDate": "2026-03-04"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 65,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-03-05",
+   "interactionDate": "2026-02-28"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-03-05",
+   "interactionDate": "2026-02-28"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-06",
+   "interactionDate": "2026-03-03"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-06",
+   "interactionDate": "2026-03-04"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-09",
+   "interactionDate": "2026-03-06"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 85,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-09",
+   "interactionDate": "2026-03-06"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-03-09",
+   "interactionDate": "2026-03-05"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-03-09",
+   "interactionDate": "2026-03-04"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-03-11",
+   "interactionDate": "2026-03-10"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-13",
+   "interactionDate": "2026-03-12"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-13",
+   "interactionDate": "2026-03-12"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-03-13",
+   "interactionDate": "2026-03-09"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-03-16",
+   "interactionDate": "2026-03-11"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-03-16",
+   "interactionDate": "2026-03-10"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-16",
+   "interactionDate": "2026-03-13"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-16",
+   "interactionDate": "2026-03-04"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-16",
+   "interactionDate": "2026-03-11"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-03-17",
+   "interactionDate": "2026-03-10"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-03-17",
+   "interactionDate": "2026-03-01"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-03-19",
+   "interactionDate": "2026-03-14"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-03-19",
+   "interactionDate": "2026-03-16"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-20",
+   "interactionDate": "2026-03-18"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 90,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-20",
+   "interactionDate": "2026-03-13"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-20",
+   "interactionDate": "2026-03-17"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-23",
+   "interactionDate": "2026-03-20"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-23",
+   "interactionDate": "2026-03-19"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-23",
+   "interactionDate": "2026-03-19"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-23",
+   "interactionDate": "2026-03-19"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-23",
+   "interactionDate": "2026-03-20"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-27",
+   "interactionDate": "2026-03-25"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-27",
+   "interactionDate": "2026-03-25"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-03-27",
+   "interactionDate": "2026-03-21"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-27",
+   "interactionDate": "2026-03-25"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-27",
+   "interactionDate": "2026-03-25"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-30",
+   "interactionDate": "2026-03-30"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-30",
+   "interactionDate": "2026-03-26"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-30",
+   "interactionDate": "2026-03-26"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-30",
+   "interactionDate": "2026-03-26"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-31",
+   "interactionDate": "2026-03-11"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-03-31",
+   "interactionDate": "2026-03-30"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-31",
+   "interactionDate": "2026-03-25"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-31",
+   "interactionDate": "2026-03-22"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-03-31",
+   "interactionDate": "2026-03-26"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-01",
+   "interactionDate": "2026-03-24"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-01",
+   "interactionDate": "2026-03-24"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-01",
+   "interactionDate": "2026-03-25"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-01",
+   "interactionDate": "2026-04-01"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-01",
+   "interactionDate": "2026-03-31"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-06",
+   "interactionDate": "2026-03-31"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-06",
+   "interactionDate": "2026-04-05"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-04-08",
+   "interactionDate": "2026-04-06"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-04-08",
+   "interactionDate": "2026-04-05"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-04-10",
+   "interactionDate": "2026-04-08"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-10",
+   "interactionDate": "2026-04-08"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-10",
+   "interactionDate": "2026-03-31"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-13",
+   "interactionDate": "2026-04-10"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 50,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-13",
+   "interactionDate": "2026-04-10"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-04-13",
+   "interactionDate": "2026-04-11"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-04-13",
+   "interactionDate": "2026-04-07"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-04-16",
+   "interactionDate": "2026-04-15"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-04-16",
+   "interactionDate": "2026-04-15"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-04-16",
+   "interactionDate": "2026-04-13"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 85,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-17",
+   "interactionDate": "2026-04-16"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-17",
+   "interactionDate": "2026-04-16"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-04-17",
+   "interactionDate": "2026-04-16"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-04-17",
+   "interactionDate": "2026-04-15"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-20",
+   "interactionDate": "2026-04-16"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-20",
+   "interactionDate": "2026-04-16"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-04-21",
+   "interactionDate": "2026-04-13"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-04-23",
+   "interactionDate": "2026-04-22"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-24",
+   "interactionDate": "2026-04-22"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-04-24",
+   "interactionDate": "2026-04-23"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-24",
+   "interactionDate": "2026-04-21"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-04-24",
+   "interactionDate": "2026-04-21"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-04-24",
+   "interactionDate": "2026-04-21"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-27",
+   "interactionDate": "2026-04-21"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-27",
+   "interactionDate": "2026-04-24"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-27",
+   "interactionDate": "2026-04-27"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-27",
+   "interactionDate": "2026-04-13"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-27",
+   "interactionDate": "2026-04-25"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-27",
+   "interactionDate": "2026-04-26"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-28",
+   "interactionDate": "2026-04-26"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-28",
+   "interactionDate": "2026-04-27"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-29",
+   "interactionDate": "2026-04-17"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-29",
+   "interactionDate": "2026-04-28"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-29",
+   "interactionDate": "2026-04-27"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-30",
+   "interactionDate": "2026-04-29"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-04-30",
+   "interactionDate": "2026-04-28"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-30",
+   "interactionDate": "2026-04-28"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-30",
+   "interactionDate": "2026-04-15"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-04-30",
+   "interactionDate": "2026-04-09"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-30",
+   "interactionDate": "2026-04-28"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-30",
+   "interactionDate": "2026-04-29"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-30",
+   "interactionDate": "2026-04-28"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-04-30",
+   "interactionDate": "2026-04-27"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-05",
+   "interactionDate": "2026-05-03"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-05",
+   "interactionDate": "2026-04-29"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-05",
+   "interactionDate": "2026-05-04"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-06",
+   "interactionDate": "2026-05-05"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-05-06",
+   "interactionDate": "2026-05-04"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-05-07",
+   "interactionDate": "2026-05-07"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-05-07",
+   "interactionDate": "2026-05-06"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-05-07",
+   "interactionDate": "2026-05-06"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 85,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-08",
+   "interactionDate": "2026-05-06"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-08",
+   "interactionDate": "2026-05-05"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-08",
+   "interactionDate": "2026-05-06"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-08",
+   "interactionDate": "2026-05-06"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-11",
+   "interactionDate": "2026-04-27"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-11",
+   "interactionDate": "2026-05-04"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-05-12",
+   "interactionDate": "2026-05-11"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-05-12",
+   "interactionDate": "2026-05-11"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-05-12",
+   "interactionDate": "2026-05-12"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-13",
+   "interactionDate": "2026-05-11"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-13",
+   "interactionDate": "2026-05-11"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-05-13",
+   "interactionDate": "2026-05-11"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-05-13",
+   "interactionDate": "2026-05-05"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-05-14",
+   "interactionDate": "2026-05-12"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-05-14",
+   "interactionDate": "2026-05-12"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-05-14",
+   "interactionDate": "2026-05-12"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-05-14",
+   "interactionDate": "2026-05-12"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-05-14",
+   "interactionDate": "2026-05-10"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-15",
+   "interactionDate": "2026-05-13"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-05-15",
+   "interactionDate": "2026-05-14"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-18",
+   "interactionDate": "2026-05-15"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-18",
+   "interactionDate": "2026-05-15"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-05-19",
+   "interactionDate": "2026-05-16"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-05-19",
+   "interactionDate": "2026-05-13"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-05-19",
+   "interactionDate": "2026-05-17"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 65,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-05-19",
+   "interactionDate": "2026-05-10"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-05-20",
+   "interactionDate": "2026-05-19"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-05-20",
+   "interactionDate": "2026-05-19"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-05-22",
+   "interactionDate": "2026-05-21"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-05-22",
+   "interactionDate": "2026-05-20"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-22",
+   "interactionDate": "2026-05-20"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-22",
+   "interactionDate": "2026-05-20"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-25",
+   "interactionDate": "2026-05-21"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-25",
+   "interactionDate": "2026-05-20"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-25",
+   "interactionDate": "2026-05-21"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-25",
+   "interactionDate": "2026-05-08"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-05-25",
+   "interactionDate": "2026-05-15"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-05-26",
+   "interactionDate": "2026-05-23"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-27",
+   "interactionDate": "2026-05-26"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-27",
+   "interactionDate": "2026-05-26"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 90,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-27",
+   "interactionDate": "2026-05-22"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-27",
+   "interactionDate": "2026-05-23"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-29",
+   "interactionDate": "2026-05-29"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-05-29",
+   "interactionDate": "2026-05-27"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-29",
+   "interactionDate": "2026-05-28"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-29",
+   "interactionDate": "2026-05-28"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-29",
+   "interactionDate": "2026-05-28"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-05-29",
+   "interactionDate": "2026-05-27"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-05-29",
+   "interactionDate": "2026-05-26"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-05-29",
+   "interactionDate": "2026-05-18"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-01",
+   "interactionDate": "2026-05-30"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-01",
+   "interactionDate": "2026-05-27"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-01",
+   "interactionDate": "2026-05-27"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-01",
+   "interactionDate": "2026-05-31"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-03",
+   "interactionDate": "2026-06-01"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-03",
+   "interactionDate": "2026-05-27"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 85,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-03",
+   "interactionDate": "2026-05-28"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-05",
+   "interactionDate": "2026-06-04"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-05",
+   "interactionDate": "2026-05-27"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-05",
+   "interactionDate": "2026-06-04"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-06-08",
+   "interactionDate": "2026-06-05"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-08",
+   "interactionDate": "2026-05-26"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-08",
+   "interactionDate": "2026-06-06"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-08",
+   "interactionDate": "2026-06-04"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-08",
+   "interactionDate": "2026-05-27"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-06-10",
+   "interactionDate": "2026-06-02"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-12",
+   "interactionDate": "2026-06-08"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-12",
+   "interactionDate": "2026-06-01"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-12",
+   "interactionDate": "2026-06-09"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-12",
+   "interactionDate": "2026-05-31"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-15",
+   "interactionDate": "2026-05-31"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-15",
+   "interactionDate": "2026-06-12"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-06-15",
+   "interactionDate": "2026-06-13"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-06-15",
+   "interactionDate": "2026-06-09"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-06-18",
+   "interactionDate": "2026-06-11"
+  },
+  {
+   "agent": "Eric Lorenzo Polanco",
+   "score": 75,
+   "coach": "Mercedes",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-19",
+   "interactionDate": "2026-06-15"
+  },
+  {
+   "agent": "Jose Figueroa Rijo",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-19",
+   "interactionDate": "2026-06-10"
+  },
+  {
+   "agent": "Solangee Cid Cabrera",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-19",
+   "interactionDate": "2026-06-18"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-19",
+   "interactionDate": "2026-06-16"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-19",
+   "interactionDate": "2026-06-15"
+  },
+  {
+   "agent": "Peniel Ramirez Terrero",
+   "score": 95,
+   "coach": "Mercedes",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-22",
+   "interactionDate": "2026-06-18"
+  },
+  {
+   "agent": "Yohanny Contreras",
+   "score": 85,
+   "coach": "Mercedes",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-22",
+   "interactionDate": "2026-06-16"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-22",
+   "interactionDate": "2026-06-16"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-06-22",
+   "interactionDate": "2026-06-21"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-06-22",
+   "interactionDate": "2026-06-16"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-06-22",
+   "interactionDate": "2026-06-14"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-06-22",
+   "interactionDate": "2026-06-09"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-06-23",
+   "interactionDate": "2026-06-08"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-06-23",
+   "interactionDate": "2026-06-08"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-24",
+   "interactionDate": "2026-06-23"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 45,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-24",
+   "interactionDate": "2026-06-22"
+  },
+  {
+   "agent": "Yohanny Contreras",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-24",
+   "interactionDate": "2026-06-23"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-25",
+   "interactionDate": "2026-06-24"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-06-25",
+   "interactionDate": "2026-06-24"
+  },
+  {
+   "agent": "Mariselis Zorrilla German",
+   "score": 100,
+   "coach": "Jorge",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-25",
+   "interactionDate": "2026-06-22"
+  },
+  {
+   "agent": "Mariselis Zorrilla German",
+   "score": 100,
+   "coach": "Jorge",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-25",
+   "interactionDate": "2026-06-15"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-26",
+   "interactionDate": "2026-06-25"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-26",
+   "interactionDate": "2026-06-25"
+  },
+  {
+   "agent": "Jose Figueroa Rijo",
+   "score": 90,
+   "coach": "Mercedes",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-26",
+   "interactionDate": "2026-06-25"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-29",
+   "interactionDate": "2026-06-26"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-29",
+   "interactionDate": "2026-06-24"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-29",
+   "interactionDate": "2026-06-26"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-29",
+   "interactionDate": "2026-06-25"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-29",
+   "interactionDate": "2026-06-24"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-29",
+   "interactionDate": "2026-06-23"
+  },
+  {
+   "agent": "Mariselis Zorrilla German",
+   "score": 100,
+   "coach": "Jorge",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-29",
+   "interactionDate": "2026-06-24"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-06-30",
+   "interactionDate": "2026-06-29"
+  },
+  {
+   "agent": "Mariselis Zorrilla German",
+   "score": 100,
+   "coach": "Jorge",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-06-30",
+   "interactionDate": "2026-06-21"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-30",
+   "interactionDate": "2026-06-25"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-06-30",
+   "interactionDate": "2026-06-25"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-06-30",
+   "interactionDate": "2026-06-27"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-06-30",
+   "interactionDate": "2026-06-27"
+  },
+  {
+   "agent": "Yohanny Contreras",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-01",
+   "interactionDate": "2026-06-30"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-07-01",
+   "interactionDate": "2026-06-21"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-07-01",
+   "interactionDate": "2026-06-21"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-03",
+   "interactionDate": "2026-07-01"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-03",
+   "interactionDate": "2026-06-30"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-03",
+   "interactionDate": "2026-07-01"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-03",
+   "interactionDate": "2026-07-02"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-06",
+   "interactionDate": "2026-07-01"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-06",
+   "interactionDate": "2026-07-05"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-06",
+   "interactionDate": "2026-05-22"
+  },
+  {
+   "agent": "Leuri Nolasco Marte",
+   "score": 85,
+   "coach": "Mercedes",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-06",
+   "interactionDate": "2026-07-02"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-06",
+   "interactionDate": "2026-07-01"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-06",
+   "interactionDate": "2026-07-02"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-08",
+   "interactionDate": "2026-07-08"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-08",
+   "interactionDate": "2026-07-07"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-10",
+   "interactionDate": "2026-07-07"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-10",
+   "interactionDate": "2026-07-08"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-10",
+   "interactionDate": "2026-07-09"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-13",
+   "interactionDate": "2026-07-06"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 65,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-13",
+   "interactionDate": "2026-07-08"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-13",
+   "interactionDate": "2026-07-08"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-13",
+   "interactionDate": "2026-07-09"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-07-14",
+   "interactionDate": "2026-07-13"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-07-14",
+   "interactionDate": "2026-07-07"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-17",
+   "interactionDate": "2026-07-13"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-17",
+   "interactionDate": "2026-07-09"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-07-17",
+   "interactionDate": "2026-07-16"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-07-17",
+   "interactionDate": "2026-07-16"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-17",
+   "interactionDate": "2026-07-15"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-17",
+   "interactionDate": "2026-07-15"
+  },
+  {
+   "agent": "Solangee Cid Cabrera",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-20",
+   "interactionDate": "2026-07-15"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-20",
+   "interactionDate": "2026-07-15"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-20",
+   "interactionDate": "2026-07-19"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-07-20",
+   "interactionDate": "2026-07-16"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-07-20",
+   "interactionDate": "2026-07-18"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-07-20",
+   "interactionDate": "2026-07-18"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-07-22",
+   "interactionDate": "2026-07-21"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-07-22",
+   "interactionDate": "2026-07-21"
+  },
+  {
+   "agent": "Solangee Cid Cabrera",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-07-23",
+   "interactionDate": "2026-07-15"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-24",
+   "interactionDate": "2026-07-22"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Liza Guzman Adames",
+   "evalDate": "2026-07-24",
+   "interactionDate": "2026-07-21"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-07-24",
+   "interactionDate": "2026-07-20"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-27",
+   "interactionDate": "2026-07-23"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-07-27",
+   "interactionDate": "2026-07-23"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-07-27",
+   "interactionDate": "2026-07-24"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-07-27",
+   "interactionDate": "2026-07-14"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-07-27",
+   "interactionDate": "2026-07-22"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 95,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-07-27",
+   "interactionDate": "2026-07-11"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-07-29",
+   "interactionDate": "2026-07-28"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-07-29",
+   "interactionDate": "2026-07-27"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-29",
+   "interactionDate": "2026-07-29"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-07-30",
+   "interactionDate": "2026-07-28"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-07-30",
+   "interactionDate": "2026-07-22"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-07-31",
+   "interactionDate": "2026-07-30"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Jelissa Jorge Aquino",
+   "evalDate": "2026-07-31",
+   "interactionDate": "2026-07-28"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-07-31",
+   "interactionDate": "2026-07-30"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-07-31",
+   "interactionDate": "2026-07-20"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-07-31",
+   "interactionDate": "2026-07-20"
+  },
+  {
+   "agent": "Wilmer Rodriguez Gonzalez",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-08-03",
+   "interactionDate": "2026-07-31"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-08-03",
+   "interactionDate": "2026-07-28"
+  },
+  {
+   "agent": "Yohanny Contreras",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-08-03",
+   "interactionDate": "2026-07-29"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-08-03",
+   "interactionDate": "2026-07-30"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-08-03",
+   "interactionDate": "2026-08-01"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-08-03",
+   "interactionDate": "2026-08-01"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-08-04",
+   "interactionDate": "2026-07-30"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Vic Fernandez",
+   "evalDate": "2026-08-04",
+   "interactionDate": "2026-08-02"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Melo",
+   "channel": "Chat",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-08-05",
+   "interactionDate": "2026-08-03"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 95,
+   "coach": "Khoury",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-08-07",
+   "interactionDate": "2026-08-06"
+  },
+  {
+   "agent": "Yohanny Contreras",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-08-07",
+   "interactionDate": "2026-08-06"
+  },
+  {
+   "agent": "Luis Reyes Santana",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-08-07",
+   "interactionDate": "2026-08-03"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-08-07",
+   "interactionDate": "2026-08-04"
+  },
+  {
+   "agent": "Evi Santos Espejo",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Email",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-08-07",
+   "interactionDate": "2026-08-03"
+  },
+  {
+   "agent": "Wilfredo Camilo Perez",
+   "score": 100,
+   "coach": "Khoury",
+   "channel": "Chat",
+   "evaluator": "Bianca Romero Valdez",
+   "evalDate": "2026-08-07",
+   "interactionDate": "2026-08-05"
+  },
+  {
+   "agent": "Dismeily Martinez De la Rosa",
+   "score": 100,
+   "coach": "Mercedes",
+   "channel": "Email",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-08-10",
+   "interactionDate": "2026-08-07"
+  },
+  {
+   "agent": "Jatnna Rosario Santana",
+   "score": 95,
+   "coach": "Khoury",
+   "channel": "Chat",
+   "evaluator": "Neury Ivel Santos Gutierrez",
+   "evalDate": "2026-08-10",
+   "interactionDate": "2026-08-08"
+  },
+  {
+   "agent": "David Ricart Perez",
+   "score": 95,
+   "coach": "Khoury",
+   "channel": "Chat",
+   "evaluator": "Indhira Ascencio Santamaria",
+   "evalDate": "2026-08-10",
+   "interactionDate": "2026-08-07"
+  }
+ ]
+}
