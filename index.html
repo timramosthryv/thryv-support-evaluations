@@ -119,6 +119,7 @@
     </div>
     <div class="head-actions">
       <div class="loaded" id="loaded"></div>
+      <button class="btn" onclick="exportCSV()">&#8681; Export CSV</button>
       <button class="btn" onclick="location.reload()">&#8635; Refresh</button>
     </div>
   </div>
@@ -351,6 +352,60 @@ function byAgent(rec){
 function byDate(rec){
   const m=groupAvg(rec,r=>r.evalDate);
   return Object.keys(m).sort().map(d=>({date:d,avg:avg(m[d]),n:m[d].length}));
+}
+
+const qKey = s => { const p=s.split(' '); return (+p[1])*10 + (+p[0].slice(1)); };
+function agentBreakdown(rec, keyFn, sortKey){
+  const m={};
+  rec.forEach(r=>{ const k=r.agent+'||'+keyFn(r);
+    (m[k]=m[k]||{agent:r.agent,coach:r.coach,key:keyFn(r),s:[]}).s.push(r.score); });
+  return Object.values(m)
+    .sort((a,b)=> a.agent.localeCompare(b.agent) || (sortKey? sortKey(a.key)-sortKey(b.key) : String(a.key).localeCompare(String(b.key))))
+    .map(o=>[o.agent, coachLabel(o.coach), o.key, o.s.length, r1(avg(o.s))]);
+}
+function exportCSV(){
+  const TYPE_LABEL='Type';
+  const rec = filtered();
+  const L=[]; const esc=v=>{v=(v==null?'':String(v));return /[",\n]/.test(v)?'"'+v.replace(/"/g,'""')+'"':v;};
+  const push=arr=>L.push(arr.map(esc).join(',')); const blank=()=>L.push('');
+  const now=new Date();
+  push([DATA.meta.group+' QA Evaluations Export']);
+  push(['Generated', now.toLocaleString('en-US')]);
+  push(['Goal', GOAL+'%']);
+  push(['Filters applied',
+    'Coach: '+$('#fCoach').value+'  |  Agent: '+$('#fAgent').value+'  |  '+TYPE_LABEL+': '+$('#fChannel').value
+    +'  |  Quarters: '+(selQ.size?[...selQ].join('; '):'All')
+    +'  |  Months: '+(selM.size?[...selM].join('; '):'All')
+    +'  |  Dates: '+(selD.size?[...selD].join('; '):'All')]);
+  push(['Evaluations in export', rec.length]);
+  blank();
+  push(['TEAM & COACH ROLLUP']);
+  push(['Scope','Evaluations','Average %','vs Goal']);
+  const team=avg(rec.map(r=>r.score));
+  push(['Team (all in export)', rec.length, rec.length?r1(team):'', rec.length?r1(team-GOAL):'']);
+  const bc={}; rec.forEach(r=>{(bc[r.coach]=bc[r.coach]||[]).push(r.score);});
+  Object.keys(bc).sort().forEach(c=>{const a=avg(bc[c]);push([coachLabel(c),bc[c].length,r1(a),r1(a-GOAL)]);});
+  blank();
+  push(['AGENT BY QUARTER']);
+  push(['Agent','Coach','Quarter','Evaluations','Average %']);
+  agentBreakdown(rec,r=>quarterOf(r.evalDate),qKey).forEach(push);
+  blank();
+  push(['AGENT BY MONTH']);
+  push(['Agent','Coach','Month','Evaluations','Average %']);
+  agentBreakdown(rec,r=>monthOf(r.evalDate),keyM).forEach(push);
+  blank();
+  push(['AGENT BY '+TYPE_LABEL.toUpperCase()]);
+  push(['Agent','Coach',TYPE_LABEL,'Evaluations','Average %']);
+  agentBreakdown(rec,r=>r.channel,null).forEach(push);
+  blank();
+  push(['RAW RECORDS (CURRENT FILTER)']);
+  push(['Agent','Coach',TYPE_LABEL,'Score','Evaluator','Evaluation Date','Interaction Date','Quarter','Month']);
+  rec.slice().sort((a,b)=> a.agent.localeCompare(b.agent) || a.evalDate.localeCompare(b.evalDate))
+    .forEach(r=>push([r.agent,coachLabel(r.coach),r.channel,r.score,r.evaluator,r.evalDate,r.interactionDate,quarterOf(r.evalDate),monthOf(r.evalDate)]));
+  const blob=new Blob(['﻿'+L.join('\n')],{type:'text/csv;charset=utf-8;'});
+  const url=URL.createObjectURL(blob); const a=document.createElement('a');
+  a.href=url; a.download=(DATA.meta.group.replace(/\W+/g,'_'))+'_QA_Export_'+now.toISOString().slice(0,10)+'.csv';
+  document.body.appendChild(a); a.click(); document.body.removeChild(a); URL.revokeObjectURL(url);
 }
 
 function render(){
