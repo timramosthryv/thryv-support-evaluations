@@ -689,14 +689,77 @@ function xlsxToRows(buf){
   return XLSX.utils.sheet_to_json(ws,{header:1,raw:false,defval:''});
 }
 async function load(){
+  /* Merge-based loader. The frozen archive is the base for Jan 1 - Sep 14 2026; every export found
+     on top of it only contributes rows that are not already present. The 8x8 Search Evaluations
+     export caps at 10,000 rows, so newer periods are pulled one month at a time and dropped into
+     the data/ folder. Row identity is Evaluation Date + Agent name, which is unique in the export. */
+  const ARCHIVE='evals-archive-through-2026-09-14.json';
+  const LIST='https://api.github.com/repos/timramosthryv/thryv-support-evaluations/contents/data?ref=main';
+  const SRC=[], merged=[], seen=new Set(); let ed=-1, ag=-1;
+  function headerRow(rows){
+    for(let i=0;i<Math.min(12,rows.length);i++){
+      const low=(rows[i]||[]).map(c=>String(c==null?'':c).toLowerCase());
+      if(low.some(c=>c.indexOf('agent name')>=0)&&low.some(c=>c.indexOf('evaluation date')>=0)) return i;
+    }
+    return -1;
+  }
+  function addRows(rows,label){
+    if(!rows||!rows.length) return 0;
+    const hi=headerRow(rows); if(hi<0) return 0;
+    const H=rows[hi].map(h=>String(h==null?'':h).trim());
+    if(!merged.length){
+      merged.push(H);
+      ed=H.findIndex(h=>h.toLowerCase()==='evaluation date');
+      ag=H.findIndex(h=>h.toLowerCase()==='agent name');
+      if(ed<0) ed=H.findIndex(h=>h.toLowerCase().indexOf('evaluation date')>=0);
+      if(ag<0) ag=H.findIndex(h=>h.toLowerCase().indexOf('agent name')>=0);
+    }
+    const map=merged[0].map(c=>H.findIndex(h=>h.toLowerCase()===c.toLowerCase()));
+    let added=0;
+    for(let r=hi+1;r<rows.length;r++){
+      const row=rows[r]; if(!row) continue;
+      const norm=map.map(j=>j>=0?(row[j]==null?'':String(row[j]).trim()):'');
+      if(!norm.some(v=>v!=='')) continue;
+      const k=norm[ed]+'|'+norm[ag];
+      if(seen.has(k)) continue;
+      seen.add(k); merged.push(norm); added++;
+    }
+    SRC.push(label+' ('+added.toLocaleString()+')');
+    return added;
+  }
+  function decodeArchive(a){
+    const out=[a.header.slice()], dc={};
+    (a.dictCols||[]).forEach(i=>{ dc[i]=a.dicts[i]||a.dicts[String(i)]||[]; });
+    a.rows.forEach(r=>out.push(r.map((v,i)=>dc[i]?(dc[i][v]==null?'':dc[i][v]):v)));
+    return out;
+  }
+  async function rowsOf(url){
+    const r=await fetch(url,{cache:'no-store'});
+    if(!r.ok) throw new Error('fetch failed');
+    const buf=await r.arrayBuffer();
+    const b=new Uint8Array(buf,0,2);
+    return (b[0]===0x50&&b[1]===0x4B)?xlsxToRows(buf):parseCSV(new TextDecoder('utf-8').decode(buf));
+  }
   try{
-    const r=await fetch('evals.csv',{cache:'no-store'}); if(!r.ok) throw 0;
-    const buf=await r.arrayBuffer(); const b=new Uint8Array(buf.slice(0,2));
-    const rows=(b[0]===0x50&&b[1]===0x4B) ? xlsxToRows(buf) : parseCSV(new TextDecoder('utf-8').decode(buf));
-    DATA=recordsFromRows(rows);
-  }catch(e){
-    try{ const r=await fetch('data.json',{cache:'no-store'}); if(!r.ok) throw 0; DATA=await r.json(); }
-    catch(e2){ DATA=EMBEDDED; }
+    const r=await fetch(ARCHIVE+'?t='+Date.now(),{cache:'no-store'});
+    if(!r.ok) throw new Error('no archive');
+    addRows(decodeArchive(await r.json()),'archive through 2026-09-14');
+  }catch(e){}
+  try{ addRows(await rowsOf('evals.csv?t='+Date.now()),'evals.csv'); }catch(e){}
+  try{
+    const list=await fetch(LIST+'&t='+Date.now(),{cache:'no-store',headers:{Accept:'application/vnd.github+json'}}).then(r=>r.ok?r.json():[]);
+    const files=(Array.isArray(list)?list:[]).filter(f=>f.type==='file'&&/\.(xlsx|xls|csv)$/i.test(f.name)).sort((a,b)=>a.name.localeCompare(b.name));
+    for(const f of files){ try{ addRows(await rowsOf(f.download_url),'data/'+f.name); }catch(e){} }
+  }catch(e){}
+  if(merged.length>1){
+    DATA=recordsFromRows(merged);
+    DATA.meta=Object.assign({},DATA.meta||{},{range:'full year to date, archive plus current exports',lastUpdated:new Date().toISOString(),sources:SRC});
+  }else{
+    try{
+      const r=await fetch('data.json?t='+Date.now(),{cache:'no-store'});
+      if(!r.ok) throw new Error('no data.json');
+      DATA=await r.json();
+    }catch(e2){ DATA=EMBEDDED; }
   }
   bootstrap();
 }
